@@ -1,2 +1,2 @@
-thisis my text file one modified one
+thisis my text file one modified from one and pulled from remote one
 
